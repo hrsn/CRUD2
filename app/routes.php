@@ -11,7 +11,7 @@
 |
 */
 //funciona con funcion anonima
-Route::get('funciona', function()
+/*Route::get('funciona', function()
 {
 	return 'funciona!!';
 });
@@ -20,6 +20,9 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+*/
+Route::resource('/', 'PostController');
+
 
 Route::resource('users', 'UserController');
 

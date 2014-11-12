@@ -11,6 +11,6 @@
       <br />
       <br />
       <hr />
-      Ayudantía de ISW - Henry Sepulveda 2014 - Copyright etc.
+      Ayudantía de ISW - Alejandra Muñoz | Henry Sepúlveda 2014 - Copyright etc.
   </body>
 </html>
